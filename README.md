@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend Engineering**
 
-- 💬 Ask me about **Python, CSS, Html**
+- 💬 Ask me about **Python, CSS, Java Script, Html**
 
 - 📫 How to reach me **william.adebisi03@gmail.com**
 
